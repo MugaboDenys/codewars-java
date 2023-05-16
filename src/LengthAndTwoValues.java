@@ -1,4 +1,4 @@
-public class LengthOfTwoVariables {
+public class LengthAndTwoValues {
     public static String[] alternate(int n, String firstValue, String secondValue) {
       String[] arr = new String[n];
           
