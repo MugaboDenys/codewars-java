@@ -1,5 +1,4 @@
 public class TotalPoints {
-  
     public static int points(String[] games) {
       int res = 0;
         
